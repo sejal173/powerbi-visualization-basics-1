@@ -19,4 +19,7 @@ This repository has my practice work from Day 1 of learning Power BI.
 
  6.Applied formatting to make reports look better
 
-# Power BI helps turn raw data into clear and useful insights.
+Power BI helps turn raw data into clear and useful insights.
+
+# Screenshorts
+DashBoard Preview - (https://github.com/sejal173/powerbi-visualization-basics-1/blob/main/FormattingVisuals.png)
